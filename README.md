@@ -12,11 +12,13 @@ A plataforma apresenta conceitos, notícias, indicadores e materiais educativos 
 
 Tecnologias Utilizadas
 -------------------------
+
 HTML5
 CSS3
 JavaScript
 Git
 GitHub Pages
+
 Estrutura do Projeto
 -------------------------
 .
