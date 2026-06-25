@@ -25,6 +25,8 @@ Estrutura do Projeto
 ├── img/<br>
 ├── js/<br>
 └── pages/<br>
+
+
 Funcionalidades<br>
 ----------------------
 Página inicial informativa
