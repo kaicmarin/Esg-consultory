@@ -13,21 +13,19 @@ A plataforma apresenta conceitos, notícias, indicadores e materiais educativos 
 Tecnologias Utilizadas
 -------------------------
 
-HTML5
-CSS3
-JavaScript
-Git
-GitHub Pages
+-HTML5<br>
+-CSS3<br>
+-JavaScript<br>
 
 Estrutura do Projeto
 -------------------------
 .
 ├── index.html<br>
-├── styles.css
-├── img/
-├── js/
-└── pages/
-Funcionalidades
+├── styles.css<br>
+├── img/<br>
+├── js/<br>
+└── pages/<br>
+Funcionalidades<br>
 ----------------------
 Página inicial informativa
 Navegação entre seções do site
