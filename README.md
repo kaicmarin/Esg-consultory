@@ -34,6 +34,5 @@ Layout responsivo
 Recursos de acessibilidade
 Apresentação de notícias e informações relevantes
  Objetivo<br>
- ----------------
 
 Contribuir para a disseminação de práticas sustentáveis e incentivar empresas a adotarem modelos de gestão alinhados aos princípios ESG.
