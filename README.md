@@ -22,7 +22,7 @@ GitHub Pages
 Estrutura do Projeto
 -------------------------
 .
-├── index.html
+├── index.html<br>
 ├── styles.css
 ├── img/
 ├── js/
