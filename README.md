@@ -45,4 +45,5 @@ Contribuir para a disseminação de práticas sustentáveis e incentivar empresa
 
 ## Acesso ao Projeto
 
+https://kaicmarin.github.io/Esg-consultory/
 https://esg-consultory.vercel.app/index.html
