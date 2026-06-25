@@ -1,0 +1,38 @@
+ESG Consultory
+------------------------
+
+Projeto web desenvolvido com foco na divulgação de práticas ESG (Environmental, Social and Governance), apresentando informações, indicadores e conteúdos voltados para sustentabilidade corporativa e responsabilidade socioambiental.
+
+Sobre o Projeto
+------------------------
+
+O ESG Consultory foi criado para auxiliar empresas e organizações a compreenderem a importância da adoção de práticas sustentáveis, oferecendo conteúdo informativo sobre governança, responsabilidade social e preservação ambiental.
+
+A plataforma apresenta conceitos, notícias, indicadores e materiais educativos relacionados ao universo ESG, promovendo conscientização e apoio à tomada de decisões mais sustentáveis.
+
+Tecnologias Utilizadas
+-------------------------
+HTML5
+CSS3
+JavaScript
+Git
+GitHub Pages
+Estrutura do Projeto
+-------------------------
+.
+├── index.html
+├── styles.css
+├── img/
+├── js/
+└── pages/
+Funcionalidades
+----------------------
+Página inicial informativa
+Navegação entre seções do site
+Conteúdo sobre ESG
+Layout responsivo
+Recursos de acessibilidade
+Apresentação de notícias e informações relevantes
+🎯 Objetivo
+
+Contribuir para a disseminação de práticas sustentáveis e incentivar empresas a adotarem modelos de gestão alinhados aos princípios ESG.
