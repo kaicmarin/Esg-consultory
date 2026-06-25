@@ -47,3 +47,8 @@ Contribuir para a disseminação de práticas sustentáveis e incentivar empresa
 
 https://kaicmarin.github.io/Esg-consultory/<br>
 https://esg-consultory.vercel.app/index.html
+
+
+## Autor
+
+https://www.linkedin.com/in/kaicv323/
