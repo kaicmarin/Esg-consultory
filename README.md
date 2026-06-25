@@ -41,3 +41,8 @@ Apresentação de notícias e informações relevantes<br>
  -------------
 
 Contribuir para a disseminação de práticas sustentáveis e incentivar empresas a adotarem modelos de gestão alinhados aos princípios ESG.
+
+
+## Acesso ao Projeto
+
+https://esg-consultory.vercel.app/index.html
