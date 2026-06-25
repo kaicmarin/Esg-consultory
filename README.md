@@ -19,7 +19,7 @@ Tecnologias Utilizadas
 
 Estrutura do Projeto
 -------------------------
-.
+
 ├── index.html<br>
 ├── styles.css<br>
 ├── img/<br>
